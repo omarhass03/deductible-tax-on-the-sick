@@ -26,4 +26,4 @@ These comparisons are descriptive. The paper proposes two designs to estimate th
 
 ## Contact
 
-Omar Hassan · omrhass03@gmail.com · [ocerotres.com](https://ocerotres.com)
+Omar Hassan · omrhass03@gmail.com · [omarhassan.work](https://omarhassan.work)
